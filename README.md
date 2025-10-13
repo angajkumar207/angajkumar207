@@ -44,8 +44,8 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=tokyonight" alt="streak" />
-  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AngajRaiddy&theme=tokyonight" alt="streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AngajRaiddy&show_icons=true&theme=tokyonight" />
 </p>
 
 ---
@@ -53,11 +53,16 @@
 ## 🌍 Connect with Me  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/angaj-kumar-b25202302?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" /></a>
-  <a href="mailto:maakaladla396@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/angaj-kumar-b25202302" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:maakaladla396@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
+
 <!-- ✅ Profile Views Counter -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AngajRaiddy&label=👀%20Profile%20Views&color=0e75b6&style=flat" alt="Profile views counter" />
