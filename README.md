@@ -44,8 +44,8 @@ Jupyter • VS Code • Git • GitHub
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=tokyonight" alt="streak" />
-  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=angajkumar207&theme=tokyonight" alt="streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=angajkumar207&show_icons=true&theme=tokyonight" />
 </p>
 
 ---
