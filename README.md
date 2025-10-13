@@ -58,7 +58,7 @@
   </a>
   <a href="mailto:maakaladla396@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white" />
-    <h4>angajkumar@gmail.com<h4>
+    <h4 style="text-align:center;">angajkumar@gmail.com</h4>
   </a>
 </p>
 
