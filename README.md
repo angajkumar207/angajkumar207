@@ -62,3 +62,8 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Angaj Raiddy &label=Profile%20views&color=0e75b6&style=flat" alt="view count" />
 </p>
+
+<!-- ✅ Profile Views Counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AngajRaiddy&label=👀%20Profile%20Views&color=0e75b6&style=flat" alt="Profile views counter" />
+</p>
