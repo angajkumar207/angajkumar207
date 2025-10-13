@@ -1,98 +1,69 @@
-<!-- 🌷 Pragati’s Cosmic README -->
-
-<h1 align="center">🌷 Hey Universe, Pragati Has Logged In 🪄</h1>
-
-<h3 align="center">🌈 Python Dev in Progress | 🧠 Aspiring Data Scientist | 🧩 DSA Explorer on LeetCode</h3>
-
----
-
-## 💫 About Me  
-
-🎓 MSc in Mathematics → translating equations into elegant code.  
-☕ Living on caffeine, curiosity, and calm chaos.  
-💭 I see data as a story waiting to be told — one model, one insight at a time.  
-
-### 🌱 Right now, I’m levelling up in:
-- 🐍 **Python Development** — turning logic into art  
-- 🧠 **Machine Learning** — sculpting patterns from pixels & data  
-- 💬 **NLP & AI** — teaching computers to vibe with human words  
-- 🧩 **Data Structures & Algorithms** — because power = optimized logic  
-- 🚀 **Building projects** that combine creativity + computation  
-
-🌼 Soft heart. Sharp brain. Endless curiosity. ☕  
-
-✨ **Fun fact:** I once said `print(hope)` — and somehow, it worked.  
-
----
-
-## 🌙 Mantra  
-
-> “I don’t just code — I conjure constellations of logic.”  
-> “Each dataset is a sky — I just connect the stars.”  
-
-🪄 Still curious. Still cosmic. Still coding softly into the night.  
-
----
-
-## 🎯 Current Focus  
-
-🌸 **Python + ML + NLP**  
-🔍 **LeetCode Daily Streak:** [Pragu @ LeetCode](https://leetcode.com/)  
-💬 **Building a Data Science Portfolio** full of ✨magic + math✨  
-
----
-
-## 🧰 My Tech Palette  
-
-### 🪄 Languages & Libraries  
-`Python` • `SQL` • `NumPy` • `Pandas` • `Matplotlib` • `Seaborn` • `Scikit-learn` • `spaCy` • `Docker`  
-
-### ☁️ Tools & Platforms  
-`Jupyter` • `VS Code` • `GitHub` • `Git`  
+ <!-- Profile Header with Animation -->
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> 
+  Yo Internet, Meet <span style="color:#ff69b4;">Angaj</span> in the Dataverse!
+</h1>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,sqlite,vscode,git,github,docker" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&lines=Data+Scientist+%7C+GenAI+Enthusiast;Machine+Learning+Explorer;NLP+Decoder;Python+Whisperer;Turning+Data+into+Magic+%F0%9F%94%AE" />
 </p>
 
 ---
 
-## 💻 My Digital Footprints  
+## 🌈 About Me  
+
+🎓 **BCA Graduate** → 📊 Data Dreamer with a curious mind and a caffeine-fueled keyboard.  
+💡 I believe every dataset hides a poem — I’m just here to help decode it.  
+
+🔭 **Current Focus Areas**  
+- 🐍 **Python** → My wand for turning chaos into order  
+- 🤖 **Machine Learning (ML)** → Teaching machines to “get it” without hardcoding  
+- 🗣 **Natural Language Processing (NLP)** → Helping machines vibe with human language  
+- 🧩 **ML & Logic Building** → Because strong foundations = skyscraper skills  
+- 🕵️ **Problem Solving** → Like a detective, one dataset at a time  
+- 🌟 **Generative AI** → Creating text, images, and ideas from thin air  
+
+✨ **Fun Fact:** Jupyter Notebooks are the modern version of magical scrolls 📜  
+
+---
+
+## 📚 My Tech Toolbox  
+
+**🗂 Data Languages:**  
+Python • Pandas • NumPy • SQL • Matplotlib • Seaborn  
+
+**🛠️ Tools & Platforms:**  
+Jupyter • VS Code • Git • GitHub  
 
 <p align="center">
-  <a href="https://github.com/YourGitHubUsername" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=python,sqlite,vscode,git,github" />
+</p>
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=tokyonight" alt="streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=tokyonight" />
+</p>
+
+---
+
+## 🌍 Connect with Me  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/angaj-kumar-b25202302" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/YourLinkedInProfile" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:angajkumar@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
+  <a href="mailto:maakaladla396@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white" />
   </a>
 </p>
 
-<h4 style="text-align:center;">📩 angajkumar@gmail.com</h4>
-
 ---
 
-## 📈 GitHub Glow-Up  
-
+<!-- ✅ Profile Views Counter -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=tokyonight" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://komarev.com/ghpvc/?username=AngajRaiddy&label=👀%20Profile%20Views&color=0e75b6&style=flat" alt="Profile views counter" />
 </p>
-
----
-
-## 🐍 Aesthetic Add-on  
-
-<p align="center">
-  <img src="https://github.com/YourGitHubUsername/YourGitHubUsername/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
----
-
-## 🌙 Motto  
-
-> "Not just writing code — I’m composing data symphonies." 🎼  
-
-🌸 Forever learning. Forever curious. Forever building magic with logic.  
