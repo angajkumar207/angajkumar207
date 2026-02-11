@@ -1,10 +1,12 @@
 <!-- Profile Header with Animation -->
-<h1 align="center">Hi 👋, I'm Angaj Kumar</h1>
-<h3 align="center">🚀 Data Scientist | GenAI Builder | ML Engineer</h3>
+<h1 align="center"> 👋 Hi I'm Angaj Kumar</h1>
+<h3 align="center">🚀 
+Aspiring Data Scientist | GenAI Builder | ML Engineer</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Data+Scientist;Machine+Learning+Engineer;GenAI+Developer;Python+Lover;Open+Source+Learner" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Data+Scientist;Machine+Learning+Engineer;GenAI+Developer;Python+Lover;Open+Source+Learner&duration=2000&pause=300" />
 </p>
+
 
 ---
 
@@ -34,6 +36,7 @@
 
 👉 Check my repositories for full projects 👨‍💻  
 
+
 ## 🧰 My Tech Palette  
 
 ### ✨ Languages & Libraries  
@@ -50,6 +53,7 @@
 
 ---
 
+
 ### ☁ Tools & Platforms  
 
 ![Jupyter](https://img.shields.io/badge/Jupyter-e6d3ff?style=for-the-badge&logo=jupyter&logoColor=black)
@@ -65,12 +69,12 @@
 </p>
 
 ---
+
 ## 🔥 Contribution Snake
 
 <p align="center">
 <img src="https://github.com/angajkumar207/angajkumar207/blob/output/github-contribution-grid-snake.svg" />
 </p>
-
 ## 🌍 Connect with Me  
 
 <p align="center">
