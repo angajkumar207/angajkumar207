@@ -12,12 +12,12 @@ Aspiring Data Scientist | GenAI Builder | ML Engineer</h3>
 
 ## 🌈 About Me  
 
-🎓 **BCA Graduate** → 📊 Data Dreamer with a curious mind and a caffeine-fueled keyboard.  
+🎓 **BCA Undergraduate** → Aspiring Data Scientist 
 💡 I believe every dataset hides a poem — I’m just here to help decode it.  
 🔥 Currently learning **Advanced ML + GenAI**
 
 🔭 **Current Focus Areas**  
-- 🐍 **Python** → My wand for turning chaos into order  
+- 🐍 **Python** → Turning chaos into clarity with code, data, and curiosity 
 - 🤖 **Machine Learning (ML)** → Teaching machines to “get it” without hardcoding  
 - 🗣 **Natural Language Processing (NLP)** → Helping machines vibe with human language  
 - 🧩 **ML & Logic Building** → Because strong foundations = skyscraper skills  
