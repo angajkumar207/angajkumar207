@@ -85,3 +85,9 @@ JUPYTER | PYTHON | GITHUB | GIT
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AngajRaiddy&label=👀%20Profile%20Views&color=0e75b6&style=flat" alt="Profile views counter" />
 </p>
+
+
+<!-- ✅ Profile Views Counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AngajRaiddy&label=👀%20Profile%20Views&color=0e75b6&style=flat" alt="Profile views counter" />
+</p>
