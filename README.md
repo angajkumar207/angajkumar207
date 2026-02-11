@@ -12,7 +12,7 @@ Aspiring Data Scientist | GenAI Builder | ML Engineer</h3>
 
 ## 🌈 About Me  
 
-🎓 **BCA Undergraduate** → Aspiring Data Scientist.
+🎓 **BCA Undergraduate** → Aspiring Data Scientist .                    
 💡 I believe every dataset hides a poem — I’m just here to help decode it.  
 🔥 Currently learning **Advanced ML + GenAI**
 
