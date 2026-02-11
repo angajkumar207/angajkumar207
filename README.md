@@ -42,13 +42,9 @@ JUPYTER | PYTHON | GITHUB | GIT
 ---
 
 ## 📊 GitHub Stats  
-
-## 📈 Profile Stats
-
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=angajkumar207&label=Profile%20views&color=0e75b6&style=flat" />
-<img src="https://img.shields.io/github/followers/angajkumar207?style=social" />
-<img src="https://img.shields.io/github/stars/angajkumar207?style=social" />
+  <img src="https://github-readme-stats.vercel.app/api?username=angajkumar207&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=angajkumar207&theme=tokyonight&hide_border=true&border_radius=12" height="165"/>
 </p>
 
 ---
@@ -80,12 +76,6 @@ JUPYTER | PYTHON | GITHUB | GIT
 </p>
 
 ---
-
-<!-- ✅ Profile Views Counter -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AngajRaiddy&label=👀%20Profile%20Views&color=0e75b6&style=flat" alt="Profile views counter" />
-</p>
-
 
 <!-- ✅ Profile Views Counter -->
 <p align="center">
