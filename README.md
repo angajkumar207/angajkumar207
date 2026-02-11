@@ -24,22 +24,39 @@
 
 ✨ **Fun Fact:** Jupyter Notebooks are the modern version of magical scrolls 📜  
 
+## 🚀 Featured Projects
+
+🔹 **Customer Churn Prediction (ML)**  
+🔹 **Sentiment Analysis using NLP**  
+🔹 **GenAI Chatbot (LLM Project)**  
+🔹 **Sales Data Analysis Dashboard**  
+🔹 **Anomaly Detection System**  
+
+👉 Check my repositories for full projects 👨‍💻  
+
+## 🧰 My Tech Palette  
+
+### ✨ Languages & Libraries  
+
+![Python](https://img.shields.io/badge/Python-ffd1dc?style=for-the-badge&logo=python&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-ffd1dc?style=for-the-badge&logo=mysql&logoColor=black)
+![NumPy](https://img.shields.io/badge/NumPy-ffd1dc?style=for-the-badge&logo=numpy&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-ffd1dc?style=for-the-badge&logo=pandas&logoColor=black)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-ffd1dc?style=for-the-badge&logo=plotly&logoColor=black)
+![Seaborn](https://img.shields.io/badge/Seaborn-ffd1dc?style=for-the-badge&logo=python&logoColor=black)
+![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-ffd1dc?style=for-the-badge&logo=scikit-learn&logoColor=black)
+![SpaCy](https://img.shields.io/badge/SpaCy-ffd1dc?style=for-the-badge&logo=spacy&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-d0e7ff?style=for-the-badge&logo=docker&logoColor=black)
+
 ---
 
-## 📚 My Tech Toolbox  
+### ☁ Tools & Platforms  
 
-**🗂 Data Languages:**  
-Python • Pandas • NumPy • SQL • Matplotlib • Seaborn • Scikit-Learn • TensorFlow
+![Jupyter](https://img.shields.io/badge/Jupyter-e6d3ff?style=for-the-badge&logo=jupyter&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS%20Code-e6d3ff?style=for-the-badge&logo=visualstudiocode&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-e6d3ff?style=for-the-badge&logo=github&logoColor=black)
+![Git](https://img.shields.io/badge/Git-e6d3ff?style=for-the-badge&logo=git&logoColor=black)
 
-**🛠️ Tools & Platforms:**  
-Tools & Platforms
-JUPYTER | PYTHON | GITHUB | GIT
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,sqlite,vscode,git,github" />
-</p>
-
----
 
 ## 📊 GitHub Stats  
 <p align="center">
@@ -53,16 +70,6 @@ JUPYTER | PYTHON | GITHUB | GIT
 <p align="center">
 <img src="https://github.com/angajkumar207/angajkumar207/blob/output/github-contribution-grid-snake.svg" />
 </p>
-
-## 🚀 Featured Projects
-
-🔹 **Customer Churn Prediction (ML)**  
-🔹 **Sentiment Analysis using NLP**  
-🔹 **GenAI Chatbot (LLM Project)**  
-🔹 **Sales Data Analysis Dashboard**  
-🔹 **Anomaly Detection System**  
-
-👉 Check my repositories for full projects 👨‍💻  
 
 ## 🌍 Connect with Me  
 
