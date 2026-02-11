@@ -1,11 +1,9 @@
 <!-- Profile Header with Animation -->
-<h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> 
-  Yo Internet, Meet <span style="color:#ff69b4;">Angaj</span> in the Dataverse!
-</h1>
+<h1 align="center">Hi 👋, I'm Angaj Kumar</h1>
+<h3 align="center">🚀 Data Scientist | GenAI Builder | ML Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&lines=Data+Scientist+%7C+GenAI+Enthusiast;Machine+Learning+Explorer;NLP+Decoder;Python+Whisperer;Turning+Data+into+Magic+%F0%9F%94%AE" />
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Data+Scientist;Machine+Learning+Engineer;GenAI+Developer;Python+Lover;Open+Source+Learner" />
 </p>
 
 ---
@@ -14,6 +12,7 @@
 
 🎓 **BCA Graduate** → 📊 Data Dreamer with a curious mind and a caffeine-fueled keyboard.  
 💡 I believe every dataset hides a poem — I’m just here to help decode it.  
+🔥 Currently learning **Advanced ML + GenAI**
 
 🔭 **Current Focus Areas**  
 - 🐍 **Python** → My wand for turning chaos into order  
@@ -30,10 +29,11 @@
 ## 📚 My Tech Toolbox  
 
 **🗂 Data Languages:**  
-Python • Pandas • NumPy • SQL • Matplotlib • Seaborn  
+Python • Pandas • NumPy • SQL • Matplotlib • Seaborn • Scikit-Learn • TensorFlow
 
 **🛠️ Tools & Platforms:**  
-Jupyter • VS Code • Git • GitHub  
+Tools & Platforms
+JUPYTER | PYTHON | GITHUB | GIT
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,sqlite,vscode,git,github" />
@@ -43,12 +43,30 @@ Jupyter • VS Code • Git • GitHub
 
 ## 📊 GitHub Stats  
 
+## 📈 Profile Stats
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=angajkumar207&theme=tokyonight" alt="streak" />
-  <img src="https://github-readme-stats.vercel.app/api?username=angajkumar207&show_icons=true&theme=tokyonight" />
+<img src="https://komarev.com/ghpvc/?username=angajkumar207&label=Profile%20views&color=0e75b6&style=flat" />
+<img src="https://img.shields.io/github/followers/angajkumar207?style=social" />
+<img src="https://img.shields.io/github/stars/angajkumar207?style=social" />
 </p>
 
 ---
+## 🔥 Contribution Snake
+
+<p align="center">
+<img src="https://github.com/angajkumar207/angajkumar207/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+## 🚀 Featured Projects
+
+🔹 **Customer Churn Prediction (ML)**  
+🔹 **Sentiment Analysis using NLP**  
+🔹 **GenAI Chatbot (LLM Project)**  
+🔹 **Sales Data Analysis Dashboard**  
+🔹 **Anomaly Detection System**  
+
+👉 Check my repositories for full projects 👨‍💻  
 
 ## 🌍 Connect with Me  
 
